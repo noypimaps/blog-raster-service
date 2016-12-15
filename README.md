@@ -1,3 +1,5 @@
+## Sample Raster Service Setup Guide
+
 The following application setup guide has only been tested on Ubuntu 16.04 LTS. 
 
 #### Service dependencies
